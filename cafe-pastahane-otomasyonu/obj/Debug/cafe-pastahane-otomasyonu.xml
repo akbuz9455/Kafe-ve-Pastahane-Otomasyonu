@@ -1,0 +1,166 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+cafe-pastahane-otomasyonu
+</name>
+</assembly>
+<members>
+<member name="T:cafe_pastahane_otomasyonu.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:cafe_pastahane_otomasyonu.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:cafe_pastahane_otomasyonu.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:cafe_pastahane_otomasyonu.My.Resources.Resources._exit">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:cafe_pastahane_otomasyonu.My.Resources.Resources.Actions_view_process_users_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:cafe_pastahane_otomasyonu.My.Resources.Resources.anasayfa">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:cafe_pastahane_otomasyonu.My.Resources.Resources.Cash_register_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:cafe_pastahane_otomasyonu.My.Resources.Resources.duzenle">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:cafe_pastahane_otomasyonu.My.Resources.Resources.edit">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:cafe_pastahane_otomasyonu.My.Resources.Resources.Ekle">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:cafe_pastahane_otomasyonu.My.Resources.Resources.ekle32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:cafe_pastahane_otomasyonu.My.Resources.Resources.Food_Dome_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:cafe_pastahane_otomasyonu.My.Resources.Resources.giris">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:cafe_pastahane_otomasyonu.My.Resources.Resources.HesapOde">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:cafe_pastahane_otomasyonu.My.Resources.Resources.kafevepastanelogo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:cafe_pastahane_otomasyonu.My.Resources.Resources.kapat">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:cafe_pastahane_otomasyonu.My.Resources.Resources.kekle">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:cafe_pastahane_otomasyonu.My.Resources.Resources.logo___yazili">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:cafe_pastahane_otomasyonu.My.Resources.Resources.logokafe">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:cafe_pastahane_otomasyonu.My.Resources.Resources.pasword">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:cafe_pastahane_otomasyonu.My.Resources.Resources.Product_documentation_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:cafe_pastahane_otomasyonu.My.Resources.Resources.Sales_report_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:cafe_pastahane_otomasyonu.My.Resources.Resources.Sales_report_icon__32x_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:cafe_pastahane_otomasyonu.My.Resources.Resources.save">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:cafe_pastahane_otomasyonu.My.Resources.Resources.SEO_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:cafe_pastahane_otomasyonu.My.Resources.Resources.Settings_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:cafe_pastahane_otomasyonu.My.Resources.Resources.shop_cart_apply_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:cafe_pastahane_otomasyonu.My.Resources.Resources.shop_cart_down_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:cafe_pastahane_otomasyonu.My.Resources.Resources.shop_cart_exclude_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:cafe_pastahane_otomasyonu.My.Resources.Resources.sifredegis">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:cafe_pastahane_otomasyonu.My.Resources.Resources.useradd">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
